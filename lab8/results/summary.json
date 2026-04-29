@@ -1,0 +1,25 @@
+{
+  "variant": 9,
+  "matrix": "NGLDM",
+  "distance_d": 2,
+  "features": [
+    "SNE",
+    "LNE"
+  ],
+  "brightness_transform": "power",
+  "gamma": 1.5,
+  "gray_levels": 32,
+  "source_image": "win_xp.png",
+  "before": {
+    "SNE": 0.03433538945988144,
+    "LNE": 273.8344047791281
+  },
+  "after": {
+    "SNE": 0.03516767053348389,
+    "LNE": 268.42096245659724
+  },
+  "delta": {
+    "SNE": 0.0008322810736024477,
+    "LNE": -5.413442322530841
+  }
+}
