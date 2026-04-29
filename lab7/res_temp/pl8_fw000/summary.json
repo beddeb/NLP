@@ -1,0 +1,9 @@
+{
+  "expected_text": "අආඇඈඉඊඋඌඍඎඏඐඑඒඓඔඕඖකඛගඝඞඟචඡජ",
+  "recognized_text": "අආඇඈඉඊඋඌඍඎඏඐඑඒඓමඕඖකඛගඝඪඟචඡජ",
+  "errors": 2,
+  "accuracy": 0.9259259259259259,
+  "profile_len": 8,
+  "feature_weight": 0.0,
+  "profile_weight": 1.0
+}
